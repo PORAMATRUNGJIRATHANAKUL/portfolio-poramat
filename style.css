@@ -383,8 +383,7 @@ article .icon {
 /* CONTACT */
 
 #contact {
-  position: relative
-  display: inline-flex;
+  display: grid;
   justify-content: center;
   flex-direction: column;
   height: 70vh;
